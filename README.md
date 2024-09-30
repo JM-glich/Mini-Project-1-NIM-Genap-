@@ -11,7 +11,8 @@ Setelah itu, masukan input untuk harga barang dan jumlah barang. Jika harga tota
 Dan jika sudah selesai, akan ada menu untuk mengulangi perhitungan atau tidak.
 
 
-INI UNTUK HASIL OUTPUTNYA
+
+INI UNTUK HASIL OUTPUT TERMINALNYA
 
 ![Cuplikan layar 2024-09-29 165911](https://github.com/user-attachments/assets/1e696c29-38ef-403a-a9b3-4e3f869d8add)
 
