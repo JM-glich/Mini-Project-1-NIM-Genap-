@@ -1,4 +1,6 @@
 # Mini-Project-1-NIM-Genap-
+NAMA : Jemis Movid
+NIM  : 2409116070
 
 INI FLOWCHARTNYA
 ![Jemis Movid_2409116070_Flowchart 1](https://github.com/user-attachments/assets/ece1a7c1-40f8-46b0-97ab-60b8b466c585)
