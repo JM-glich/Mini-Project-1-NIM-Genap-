@@ -3,6 +3,9 @@ print("Nama: Jemis Movid")
 print("NIM: 2409116070")
 
 # Sigh Up
+# ---------------------------------------------------------------------------------
+# Baris 7 - 23 adalah code untuk login sederhana dengan menggunakan looping.
+# ---------------------------------------------------------------------------------
 Sigh_up = ""
 while True:
     print("\nPilih Opsi")
@@ -21,6 +24,9 @@ while True:
         if Nama == nama and NIM == nim:
 
 # Menu kalkulasi
+# ---------------------------------------------------------------------------------
+# Baris ___ adalah proses kalkulasi dengan mengunakan command if, elif dan else. 
+# ---------------------------------------------------------------------------------
             perintah=""
             while True:
                 pilihan = int(input("\n1. Pulang, 2. Calculator: "))
@@ -44,3 +50,7 @@ while True:
             print("\nData anda tidak sesuai")
     else:
         print("error")
+
+
+
+# Untuk baris
