@@ -29,7 +29,7 @@ while True:
 
 # Memasukan input harga barang dan jumlah barang
 # --------------------------------------------------------------------------------
-# Baris 33 - 52
+# Baris 33 - 52 adalah kode untuk melakukan perhitungan total harga barang dengan menggunakan command if,elif dan else. Selain itu juga menggunakan command while True untuk melakukan looping atau pengulangan.
 # --------------------------------------------------------------------------------
             perintah=""
             while True:
