@@ -18,5 +18,4 @@ Dan jika sudah selesai, akan ada menu untuk mengulangi perhitungan atau tidak. J
 
 INI UNTUK HASIL OUTPUT TERMINALNYA
 
-![Cuplikan layar 2024-09-29 165911](https://github.com/user-attachments/assets/1e696c29-38ef-403a-a9b3-4e3f869d8add)
-
+![Cuplikan layar 2024-09-30 203540](https://github.com/user-attachments/assets/3e87edf7-1916-4962-9cc7-05382850bc63)
