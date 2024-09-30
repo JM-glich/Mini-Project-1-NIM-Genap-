@@ -11,4 +11,5 @@ Setelah itu, masukan input untuk harga barang dan jumlah barang. Jika harga tota
 Dan jika sudah selesai, akan ada menu untuk mengulangi perhitungan atau tidak.
 
 INI UNTUK HASIL OUTPUTNYA
-![Jemis Movid_2409116070 (1)](https://github.com/user-attachments/assets/6c78904c-e400-4157-85aa-30dddca8f925)
+![Cuplikan layar 2024-09-29 165911](https://github.com/user-attachments/assets/1e696c29-38ef-403a-a9b3-4e3f869d8add)
+
