@@ -1,10 +1,13 @@
 # Menghitung total harga barang berdasarkan harga barang dan jumlah pembelian
+# ---------------------------------------------------------------------------------
+# Baris 5 - 6 untuk menampilkan nama dan NIM menggunakan command print
+# ---------------------------------------------------------------------------------
 print("Nama: Jemis Movid")
 print("NIM: 2409116070")
 
 # Sigh Up
 # ---------------------------------------------------------------------------------
-# Baris 7 - 23 adalah code untuk login sederhana dengan menggunakan looping.
+# Baris 9 - 24 adalah code untuk login sederhana dengan menggunakan looping.
 # ---------------------------------------------------------------------------------
 Sigh_up = ""
 while True:
@@ -23,16 +26,20 @@ while True:
 
         if Nama == nama and NIM == nim:
 
-# Menu kalkulasi
-# ---------------------------------------------------------------------------------
-# Baris ___ adalah proses kalkulasi dengan mengunakan command if, elif dan else. 
-# ---------------------------------------------------------------------------------
+# Looping ke-2
+# --------------------------------------------------------------------------------
+# Baris 30 - 35 adalah untuk commend jika memilih opsi 1) maka akan kembali ke menu pertama dan jika memilih opsi 2) maka akan lanjut ke menu kalkulasi
+# --------------------------------------------------------------------------------
             perintah=""
             while True:
                 pilihan = int(input("\n1. Pulang, 2. Calculator: "))
                 if pilihan == 1:
                     break
                 elif pilihan == 2:
+# Menu kalkulasi
+# ---------------------------------------------------------------------------------
+# Baris 40 - 50 adalah proses kalkulasi dengan mengunakan command if, elif dan else. 
+# ---------------------------------------------------------------------------------
                         harga_barang = int(input("\nHarga barang Rp. "))
                         jumlah_pembelian = int(input("Jumlah barang: "))
                         total = harga_barang * jumlah_pembelian
@@ -44,6 +51,11 @@ while True:
                         else:
                             print("\nTotal pembayaran: ")
                             print(f"Rp{total}")
+
+# Commend lainnya
+# ---------------------------------------------------------------------------------
+# Baris 56 - 61 adalah untuk proses jika terdapat kesalahan pengisisan data atau lainnya
+# ---------------------------------------------------------------------------------
                 else:
                     print("error")
         else:
@@ -51,6 +63,3 @@ while True:
     else:
         print("error")
 
-
-
-# Untuk baris
