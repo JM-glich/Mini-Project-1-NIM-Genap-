@@ -19,3 +19,8 @@ Dan jika sudah selesai, akan ada menu untuk mengulangi perhitungan atau tidak. J
 INI UNTUK HASIL OUTPUT TERMINALNYA
 
 ![Cuplikan layar 2024-09-30 203540](https://github.com/user-attachments/assets/3e87edf7-1916-4962-9cc7-05382850bc63)
+
+Pada output, user akan diberi menu untuk melakukan Sigh Up atau kembali. Jika user memilih opsi 2) Sigh Up, maka user akan diarahkan untuk memasukan data diri yang kemudian ketika selesai, user akan diminta mengisi data ulang untuk verifikasi. 
+Setelah selesai user akan diminta untuk menginput harga barang dan jumlah barang. Kemudian komputer akan menghitung dan menghasilkan output sesuai yang ada di gambar.
+ketika hasil sudah keluar, user akan diminta apakah ingin melanjutkan perhitungan atau berhenti. Jika memilih "Ya" maka program perhitungan akan dilanjutkan dan bila memilih "Tidak", maka program akan berhenti dan kembali ke menu awal.
+
